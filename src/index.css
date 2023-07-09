@@ -71,3 +71,9 @@ h1 {
   border: 1px solid var(--sunny-color);
   color: var(--sunny-color);
 }
+
+footer {
+  text-align: center;
+  color: var(--primary-color);
+  font-size: 10px;
+}

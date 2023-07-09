@@ -8,6 +8,17 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Weather />
+    <footer>
+      This project was coded by Dayana Daviott
+      <a
+        href="https://github.com/dagifer/shecodes-react"
+        target="_blank"
+        rel="noreferrer"
+      >
+        {" "}
+        open-source at GitHub
+      </a>
+    </footer>
   </React.StrictMode>
 );
 
